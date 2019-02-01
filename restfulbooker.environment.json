@@ -1,0 +1,52 @@
+{
+	"id": "64fc5960-ba4e-4572-ba8a-e025d2f4e9c1",
+	"name": "Restful Booker",
+	"values": [
+		{
+			"key": "cookie",
+			"value": "b176633993fc41b",
+			"description": {
+				"content": "",
+				"type": "text/plain"
+			},
+			"enabled": true
+		},
+		{
+			"key": "bookingId",
+			"value": 11,
+			"enabled": true
+		},
+		{
+			"key": "firstName",
+			"value": "Prunella",
+			"description": {
+				"content": "",
+				"type": "text/plain"
+			},
+			"enabled": true
+		},
+		{
+			"key": "lastName",
+			"value": "Prunewhip",
+			"description": {
+				"content": "",
+				"type": "text/plain"
+			},
+			"enabled": true
+		},
+		{
+			"key": "FOO",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "Bar",
+			"value": "12",
+			"description": "",
+			"enabled": true
+		}
+	],
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2019-02-01T00:14:08.207Z",
+	"_postman_exported_using": "Postman/6.7.2"
+}
