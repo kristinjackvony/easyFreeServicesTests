@@ -4,7 +4,7 @@
 	"values": [
 		{
 			"key": "cookie",
-			"value": "b176633993fc41b",
+			"value": "",
 			"description": {
 				"content": "",
 				"type": "text/plain"
@@ -13,7 +13,7 @@
 		},
 		{
 			"key": "bookingId",
-			"value": 11,
+			"value": "",
 			"enabled": true
 		},
 		{
@@ -33,20 +33,9 @@
 				"type": "text/plain"
 			},
 			"enabled": true
-		},
-		{
-			"key": "FOO",
-			"value": "",
-			"enabled": true
-		},
-		{
-			"key": "Bar",
-			"value": "12",
-			"description": "",
-			"enabled": true
 		}
 	],
 	"_postman_variable_scope": "environment",
-	"_postman_exported_at": "2019-02-01T00:14:08.207Z",
-	"_postman_exported_using": "Postman/6.7.2"
+	"_postman_exported_at": "2019-02-02T14:22:29.193Z",
+	"_postman_exported_using": "Postman/6.7.3"
 }
